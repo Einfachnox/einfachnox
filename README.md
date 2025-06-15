@@ -1,9 +1,9 @@
-# 👋 Hi, ich bin Einfachnox!
+# 👋 Hi, I'm Einfachnox!
 
-- 🏗️ Lerne aktuell **Java**
-- 🌐 Simples **Web Development**
-- 🤖 Früher Discord Bots in **Python** gecodet
-- ✂️ Cutter und Designer (Premiere Pro, After Effects, Blender, Photoshop)
+- 🏗️ Currently learning **Java**
+- 🌐 Simple **Web Development**
+- 🤖 Previously coded Discord bots in **Python**
+- ✂️ Video editor (Premiere Pro, After Effects, Blender, Photoshop)
 
 ## 📊 GitHub Stats
 
